@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 讀春秋略記
-#+DATE: 2015-09-23 09:40:22
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:16:24.420436
+#+PROPERTY: ID KR1e0090
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十
 <pb:KR1e0090_WYG_010-1a>¶
 欽定四庫全書¶
 　讀春秋畧記卷十　　　明　朱朝瑛　撰¶
@@ -974,4 +976,3 @@
 　¶
 　¶
 　讀春秋畧記卷十¶
-
